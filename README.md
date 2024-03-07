@@ -10,3 +10,6 @@ https://drive.google.com/file/d/13VZG7bTu8pcL5WmEcT-3JNA2bjiaA_Pi/view?usp=drive
 Navigation Diagram of the application:
 
 ![alt text](https://github.com/AdaCanoglu5/Android-Mobile-Stock-Application/blob/main/Navigation%20Diagram.png?raw=true)
+
+![alt text](https://github.com/AdaCanoglu5/Android-Mobile-Stock-Application/blob/main/example.png?raw=true)
+
