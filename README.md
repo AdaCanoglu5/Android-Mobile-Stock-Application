@@ -6,3 +6,5 @@ Mongodb is used for the database.
 
 Brief video showcasing the features of the application:
 https://drive.google.com/file/d/13VZG7bTu8pcL5WmEcT-3JNA2bjiaA_Pi/view?usp=drive_link
+
+![alt text](Navigation Diagram.png)
