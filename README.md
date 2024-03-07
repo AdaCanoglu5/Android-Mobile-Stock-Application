@@ -11,5 +11,7 @@ Navigation Diagram of the application:
 
 ![alt text](https://github.com/AdaCanoglu5/Android-Mobile-Stock-Application/blob/main/Navigation%20Diagram.png?raw=true)
 
+example images:
+
 ![alt text](https://github.com/AdaCanoglu5/Android-Mobile-Stock-Application/blob/main/example.png?raw=true)
 
